@@ -5,11 +5,11 @@
 
 ## **Professional Summary**
 
-Results-driven **Principal DevSecOps & Site Reliability Engineer** with 13+ years of experience architecting, automating, and securing high-performance cloud platforms across AWS, Azure, and GCP. Proven record of leading infrastructure transformations, optimizing CI/CD pipelines, and integrating AI tooling to elevate developer velocity and system resilience. Passionate about reliability, cost optimization, and mentoring teams to adopt DevOps best practices that deliver measurable impact. A quick learner, proactive self-starter, and excellent communicator.
+Results-driven **Principal DevSecOps & Site Reliability (SRE) Engineer** with 13+ years of experience architecting, automating, and securing high-performance cloud platforms across AWS, Azure, and GCP. Proven record of leading infrastructure transformations, optimizing CI/CD pipelines, and integrating AI tooling to elevate developer velocity and system resilience. Passionate about reliability, cost optimization, and mentoring teams to adopt DevOps best practices that deliver measurable impact. A quick learner, proactive self-starter, and excellent communicator.
 
 ---
 
-## **Key Areas of Expertise**
+## **Key Areas of Expertise/Exposure**
 
 - **Cloud & IaC:** AWS, Azure, GCP, Terraform, Ansible, Helm, Kubernetes (EKS, AKS, GKE)
 - **Automation, Design & CI/CD:** GitHub Actions, GitLab, ArgoCD, Rundeck, Blue/Green, Canary
@@ -18,7 +18,7 @@ Results-driven **Principal DevSecOps & Site Reliability Engineer** with 13+ year
 - **Programming/Scripting:** Go, Python, Bash, Ruby, PowerShell
 - **Databases:** PostgreSQL, MSSQL, MySQL, Redis, MongoDB, Elasticsearch
 - **Architecture & Leadership:** Serverless, Distributed Systems, SRE Practices, RCA, Mentorship
-- **AI Tooling:** Claude, Cursor, Devin, Graphite, OpenAI
+- **AI/MLOps Tooling:** Claude, Cursor, Devin, Graphite, OpenAI, LLM Infrastructure/Evaluation
 
 ---
 
@@ -33,7 +33,7 @@ Results-driven **Principal DevSecOps & Site Reliability Engineer** with 13+ year
 - **Reduced DataDog trace errors by 90%** by refactoring the agent deployment pipeline for more accurate observability and reduced noise.  
 - **Developed an automated just-in-time database access system**, saving approximately **600 engineer-hours monthly** while maintaining strict audit compliance.  
 - **Saved $45K/month in cloud costs** by offboarding unused Redis/MongoDB clusters and decommissioning obsolete infrastructure.  
-- Mentored junior DevOps engineers and drove continuous improvement through RCA participation and incident response leadership.
+- **Mentored junior DevOps engineers** and drove continuous improvement through RCA participation and incident response leadership.
 
 ---
 
